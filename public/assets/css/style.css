@@ -1,0 +1,26 @@
+body {
+  background: rgb(235, 201, 127);
+  background-clip: 100%;
+  margin-left: 30px;
+  margin-right: 0;
+  font-family: "consolas";
+  background-image: url("./background.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  color: red;
+}
+#shortribs {
+  background-image: url("/public/assets/burger.png");
+}
+.wrapper {
+  background: rgb(235, 201, 127);
+  margin: 10;
+  font-family: "consolas";
+}
+h1 {
+  color: rgb(63, 52, 57);
+  margin: 0px !important;
+  margin-left: 0px;
+}
+#imgback {
+}
